@@ -1,0 +1,2 @@
+minimum m,c is 1.110000,37.310000 with error 9.696677
+Time elapsed was 160201806ns or 0.160201806s

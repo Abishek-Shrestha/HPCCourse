@@ -1,0 +1,8 @@
+image dimensions 100x72
+Time elapsed was 289901ns or 0.000289901s
+
+Press escape to exit
+
+Press escape to exit
+
+Press escape to exit

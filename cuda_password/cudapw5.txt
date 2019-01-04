@@ -1,0 +1,5 @@
+Found password: CD1234
+Found password: AB1435
+Found password: GH4567
+Found password: EF7896
+Time elapsed was 68038675ns or 0.068038675s

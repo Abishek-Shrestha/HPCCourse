@@ -1,0 +1,2 @@
+image dimensions 100x72
+Time elapsed was 63628ns or 0.000063628s
